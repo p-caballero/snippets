@@ -2,4 +2,4 @@
 
 ## Index
 
-* [GIT](git\index.md)
+* [GIT](git/index.md)
