@@ -2,8 +2,23 @@
 
 ## Index
 
+* [Clone a Repository](#Clone-a-Repository)
 * [Rename a Local and Remote Git Branch](#Rename-a-Local-and-Remote-Git-Branch)
 * [Specific User in Git Repository](#Specific-User-in-Git-Repository)
+
+## Clone a Repository
+
+### Bitbucket
+
+```bash
+git clone https://<user-name>@bitbucket.org/<company-name>/<repository-name>.git
+```
+
+### GitHub
+
+```bash
+git clone https://<user-name>@github.com/<owner-github-user-name>/<repository-name>.git
+```
 
 ## Rename a Local and Remote Git Branch
 
