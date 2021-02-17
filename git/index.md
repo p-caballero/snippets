@@ -8,6 +8,8 @@
 * [Rename a Local and Remote Git Branch](#Rename-a-Local-and-Remote-Git-Branch)
 * [Specific User in Git Repository](#Specific-User-in-Git-Repository)
 
+---
+
 ## Clone a Repository
 
 ### Bitbucket
