@@ -3,6 +3,8 @@
 ## Index
 
 * [Clone a Repository](#Clone-a-Repository)
+  * [Bitbucket](#Bitbucket)
+  * [GitHub](#GitHub)
 * [Rename a Local and Remote Git Branch](#Rename-a-Local-and-Remote-Git-Branch)
 * [Specific User in Git Repository](#Specific-User-in-Git-Repository)
 
